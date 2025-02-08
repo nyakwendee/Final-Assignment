@@ -1,0 +1,11 @@
+Final-Assignment repository contains 11 files correponding to different excercises:
+  - creating a Jupyter Notebook
+  - setting up a title for the notebook
+  - introducing the notebook
+  - listing popular Data Science languages
+  - listing commonly used libraries in Data Science
+  - creating a table of Data Science tools
+  - evaluating aithmetic expressions in Python
+  - converting minutes to hours
+  - listing objectives of the items covered in the notebook
+  - indicating name of the author 
